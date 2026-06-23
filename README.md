@@ -1,5 +1,7 @@
 # Travel & Booking Analytics Dashboard
 
+![Dashboard](Screenshots/Dashboard_Main.png)
+
 ## Project Overview
 
 This project analyzes travel booking data using **MySQL** and **Power BI** to generate meaningful business insights. The dashboard helps understand travel trends, destination popularity, accommodation preferences, transportation choices, travel costs, and traveler demographics.
